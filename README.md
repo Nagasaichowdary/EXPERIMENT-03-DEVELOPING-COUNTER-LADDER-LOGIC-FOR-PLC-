@@ -2,7 +2,7 @@
 ## NAME: Aditya Naga Sai P
 ## REGISTER NUMBER: 212223110036
 ## DEPARTMENT:CSE(IOT)
-## YEAR:IV
+## YEAR:III
 
 ### Aim:
 To understand and implement various counter operations in Programmable Logic Controller (PLC) ladder logic.
